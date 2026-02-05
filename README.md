@@ -8,7 +8,11 @@ property of Bitstream Inc.
 Converted to TTF and WOFF2 from
 http://xorg.freedesktop.org/releases/individual/font/
 
-# Copyright and license
+## The font name
+
+Note that installing the font locally in your system will install it by the "Courier 10 Pitch" name.
+
+## Copyright and license
 
 <blockquote>
 
